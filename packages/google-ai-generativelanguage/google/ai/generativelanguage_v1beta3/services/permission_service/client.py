@@ -543,11 +543,11 @@ class PermissionServiceClient(metaclass=PermissionServiceClientMeta):
                 role's permitted operations:
 
                  - reader can use the resource (e.g.
-                  tuned model) for inference
+                   tuned model) for inference
                  - writer has reader's permissions and
-                  additionally can edit and share
+                   additionally can edit and share
                  - owner has writer's permissions and
-                  additionally can delete
+                   additionally can delete
 
         """
         # Create or coerce a protobuf request object.
@@ -670,11 +670,11 @@ class PermissionServiceClient(metaclass=PermissionServiceClientMeta):
                 role's permitted operations:
 
                  - reader can use the resource (e.g.
-                  tuned model) for inference
+                   tuned model) for inference
                  - writer has reader's permissions and
-                  additionally can edit and share
+                   additionally can edit and share
                  - owner has writer's permissions and
-                  additionally can delete
+                   additionally can delete
 
         """
         # Create or coerce a protobuf request object.
@@ -920,11 +920,11 @@ class PermissionServiceClient(metaclass=PermissionServiceClientMeta):
                 role's permitted operations:
 
                  - reader can use the resource (e.g.
-                  tuned model) for inference
+                   tuned model) for inference
                  - writer has reader's permissions and
-                  additionally can edit and share
+                   additionally can edit and share
                  - owner has writer's permissions and
-                  additionally can delete
+                   additionally can delete
 
         """
         # Create or coerce a protobuf request object.

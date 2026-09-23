@@ -43,7 +43,7 @@ class Permission(proto.Message):
 
      - reader can use the resource (e.g. tuned model) for inference
      - writer has reader's permissions and additionally can edit and
-      share
+       share
      - owner has writer's permissions and additionally can delete
 
 
